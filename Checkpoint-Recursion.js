@@ -16,4 +16,4 @@ function palindrome(str) {
     }
 
 }
-console.log(palindrome("radara"));
+console.log(palindrome("ra"));
